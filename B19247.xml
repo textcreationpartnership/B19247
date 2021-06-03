@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties two speeches one to the knights, gentlemen, and freeholders of the county of Lincoln at Lincoln : whereunto is added votes concerning the raising of an army for the Northerne parts in defence of the King and Parliament under the command of the Earle of Essex, generall of the foot, and the Earle of Bedford, generall of the horse.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19247</idno><idno type="EEBO-CITATION">10861179</idno>
+  <idno type="VID">204814</idno>
+  <idno type="EEBO-PROQUEST">2240896561</idno>
+  
+            <idno type="STC">Wing C2869</idno>
+            <idno type="OCLC">10861179</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties two speeches one to the knights, gentlemen, and freeholders of the county of Lincoln at Lincoln : whereunto is added votes concerning the raising of an army for the Northerne parts in defence of the King and Parliament under the command of the Earle of Essex, generall of the foot, and the Earle of Bedford, generall of the horse.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bankes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204814:1"/>
+            <pb facs="tcp:204814:1"/>
+            <p>HIS MAIESTIES TWO <hi>SPEECHES:</hi> ONE To the Knights, Gentlemen, and Freeholders of the County of <hi>NOT<g ref="char:EOLhyphen"/>TINGHAM</hi> at <hi>NEWARK.</hi>
+            </p>
+            <p>
+               <hi>The other</hi> To the Knights, Gentlemen, and Freeholders of the County of <hi>LIN<g ref="char:EOLhyphen"/>COLN</hi> at <hi>LINCOLN.</hi>
+            </p>
+            <p>VVhereunto is added Votes concerning the raising of an Army for the Northerne parts, in defence of the King and Parliament: under the Command of the Earle of <hi>Essex,</hi> Generall of the foot, and the Earle of BEDFORD, Ge<g ref="char:EOLhyphen"/>nerall of the HORSE.</p>
+            <p>London printed for <hi>Thomas Bankes.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:204814:2"/>
+            <pb n="1" facs="tcp:204814:2"/>
+            <head>His Majesties Speech</head>
+            <head type="sub">To the Knights, Gentlemen, and Freeholders of the County of <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> at <hi>Newarke.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our honest Resolutions and Af<g ref="char:EOLhyphen"/>fections to mee and your Coun<g ref="char:EOLhyphen"/>try, for the defence of my Per<g ref="char:EOLhyphen"/>son, and the Lawes of the Land, have been, and are so notable, that they have drawn me hither only to thank you: I goe to other places to confirm and un<g ref="char:EOLhyphen"/>deceive my Subjects, but am come hither only to thank and encourage you: You have made the best judgemnt of happinesse, by relying on that foundaton, which the experience of so many hundred yeares hath give such proofe of, The Assurance and Securiy of the Law: And assure your selves when Laws shall bee altered by any other Authority, then that by which they were made, your foundations are destroyed; And though it seemes at first but
+<pb n="2" facs="tcp:204814:3"/>to take away my Power, it will quickly swal<g ref="char:EOLhyphen"/>low all your Interest. I aske nothing of you (though your demeanour gives me good evi<g ref="char:EOLhyphen"/>dence that you are not willing to deny) but to preserve your owne Affections to the Religi<g ref="char:EOLhyphen"/>on and Lawes established; I will justifie and protect those Affections, and will live and die with you in that quarrell.</p>
+         </div>
+         <div type="speech">
+            <pb n="3" facs="tcp:204814:3"/>
+            <head>His Majesties Speech</head>
+            <head type="sub">To the Knights, Gentlemen, and Freeholders of the County of <hi>LIN<g ref="char:EOLhyphen"/>COLN</hi> at <hi>LINCOLN.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F I could have suspected your affecti<g ref="char:EOLhyphen"/>ons, or have censured the dutie of this County by some late Actions in it, I should not have taken this paines to have given you a Testimony of my Affection to you, and to remove those Objections, which being raised by a Malignant party, may, by their cunning and industry, get credit even with ho<g ref="char:EOLhyphen"/>nest mindes, The truth is, I come to you to assure you of my purposes and Resolutions for the De<g ref="char:EOLhyphen"/>fence of what ever is or should be deare unto you, your Religion, your Liberty, your Common Inte<g ref="char:EOLhyphen"/>rest, and the Law of the Land: and to undeceive you of that Opinion, which I heare hath mis-led ma<g ref="char:EOLhyphen"/>ny of you, That the pretended Ordinance of the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> is warranted by my consent and Authority. As I have already informed you, by my severall De<g ref="char:EOLhyphen"/>clarations and Messages, that the same is a<g ref="char:EOLhyphen"/>gainst the knowne Law, and an Invation of my unquestionable Right, and of your Liberty
+<pb n="4" facs="tcp:204814:4"/>and Property, so I doe now declare unto you, that the same is imposed upon you against my Expresse Consent, and in Contempt of my Re<g ref="char:EOLhyphen"/>gall Authoritie; And therefore whosoever shall henceforth presume to Execute o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Obey the same, I shall proceed against them, as against such who promote Rebellion, and actually leavie Warre against me: And I doubt not, but you will sadly consider, That if any authoritie with<g ref="char:EOLhyphen"/>out and against my Consent may lawfully im<g ref="char:EOLhyphen"/>pose such Burthens upon you, it may likewise take away all that you have from you, and subject you to their Lawlesse Arbitrary Pow<g ref="char:EOLhyphen"/>er and Government: And how farre they are like to exercise that Jurisdiction towards you, you may guesse by the Insolence of Sir <hi>John Hotham</hi> at <hi>Hull,</hi> who (being a Subject) not onely presumes to keep His Soveraign, by force of Armes, out of His Towne, but murthers his Fellow-Subjects, Imprisons them, burnes their Houses, drownes their Land, takes them Captives, and commits such Outrages, and Acts of Hostilitle, as the most equall and outragious Enemies practise in any Countrey; That you may see how impossible it is for your Liberties and Properties to bee preserved, when your King is Oppressed, and His just Rights taken from Him. Who hath brought these Cala<g ref="char:EOLhyphen"/>mities upon your Neighbours at <hi>Hall,</hi> every Man sees; and they onely can bring the same upon you. I will not beleeve you to be so insensible of the be<g ref="char:EOLhyphen"/>nifits you have received from me, that I need put you in minde of the Gracious Acts passed by mee this Parliament on your behalfes; And if there
+<pb n="5" facs="tcp:204814:4"/>be any thing wanting, to the ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing you the hap<g ref="char:EOLhyphen"/>piest Subjects in the world, I am sure it is not my fault that you have not that too: Be not deceived with words, and generall Expressions; It is not in your power to name one particular, which might make you happy, that I have refused to Grant, Be not frighted with Apprehensions, That this Countrey is like to be the Seat of a War; the Seat of a war will be only where persons rise in Rebelli<g ref="char:EOLhyphen"/>on against me; that will not, I hope, be here, and then you shall be sure of my protection. I will live and die in your Defence; and that you may bee in a Readinesse, and a Posture to Defend your selves and me, against any Invasion or Rebellion, I have Armed severall Persons of Honour, Qualitie and Reputation amongst you, and of your owne Coun<g ref="char:EOLhyphen"/>trey, with a Commission of Array to that purpose: There is no honest end declared in that Ordi<g ref="char:EOLhyphen"/>nance, which is not provided for by this Commis<g ref="char:EOLhyphen"/>sion, which being according to the old known Law, is fit for your Obedience, and I doubt not will finde it.</p>
+            <p>In a word, I assure you, upon the Faith, aad Ho<g ref="char:EOLhyphen"/>nour of a Christian King, I will be alwayes as ten<g ref="char:EOLhyphen"/>der of any thing which may advance the true Pro<g ref="char:EOLhyphen"/>testant Religion, protect and preserve the Lawes of the Land, and defend the just Priviledge and Free<g ref="char:EOLhyphen"/>dome of Parliament, as of my Life, or my Crowne: and when I faile in either of these. I will not looke for your assistance; till then you are concerned nor to see me suffer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="Parliamentary_resolution">
+            <pb facs="tcp:204814:5"/>
+            <head>VOTES.</head>
+            <opener>
+               <dateline>
+                  <date>Die Martis. 12. July. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+               <lb/> That an Army shall be forthwith raised for the safety of the Kings per<g ref="char:EOLhyphen"/>son, defence of both Houses of <hi>Parliament,</hi> and of those who have obeyed their Orders and Commands, and proserving of the true Religion, the Laws, liberty and peace of the Kingdome.</p>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+               <lb/> That the Earle of <hi>Essex</hi> shall be the Generall.</p>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+               <lb/> That this House doth declare, that in this cause for the safety of the Kings person, defence of both Houses of <hi>Parliament,</hi> and those who have obeyed their Orders and Commands, and preserving of the true Religion, the Laws, liberty and peace of the Kingdom, they will live and die with the Earle of <hi>Essex,</hi> whom they have nominated Generall in this Cause.</p>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+               <lb/> That a Petition shall be framed, to move. His Majesty to a good accord with his <hi>Parliament,</hi> to prevent a Civill War.</p>
+            <p>The Petition being drawn, was agreed unto upon the Question: and with these Votes were presented unto the Lords. Who returned Answer, they did concur with the house of Commons, <hi>in omnibus.</hi>
+            </p>
+            <p>Whereupon both Houses ordered, that the Earl of Holland, Sir <hi>John Holland,</hi> and Sir <hi>Philip Stapleton</hi> should forthwith repaire to <hi>Beverley,</hi> and present the Petition unto His Majesty.</p>
+            <p>The Message of the 11. of July came to the House of Peers, after this Pe<g ref="char:EOLhyphen"/>tition was agreed on: being so full an Answer thereunto, as both Houses re<g ref="char:EOLhyphen"/>solved to give no other Answer to that Message, but the said Petition.</p>
+            <p>
+               <hi>Resolved upon the Question,</hi>
+               <date>14. July. 1642.</date>
+               <lb/> That all the Members of this House that have subscribed for the bringing in of Horse, Money, or Plate, doe bring in the same by Tuesday next, and that a Report be made then to the House who are defective herein.</p>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+               <lb/> That the Earl of <hi>Bedford</hi> shall be Generall of the Horse.</p>
+            <closer>
+               <signed>Hen. Elsing. Cl. Parl. Dom. Com.</signed>
+            </closer>
+            <pb facs="tcp:204814:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
